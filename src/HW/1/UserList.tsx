@@ -2,7 +2,7 @@ type AddressType = {
   street: string;
   city: string;
 };
-//id
+
 type UserType = {
     id: number;
     name: string;
