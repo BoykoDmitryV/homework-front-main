@@ -6,6 +6,7 @@ export type AddressType = {
   city: string;
 };
 
+
 export type UserType = {
   id: number;
   name: string;
